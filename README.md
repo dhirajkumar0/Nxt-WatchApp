@@ -1,4 +1,6 @@
 In this assignment let's build an **Nxt Watch** by applying the concepts we have learned till now.
+<br />
+username - rahul <br />password - rahul@2021
 
 ### Refer to videos below:
 
